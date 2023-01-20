@@ -23,7 +23,6 @@ $ git clone https://github.com/gentiangashi.github.io
 
 # Go into the repository
 $ cd gentiangashi.github.io
-
 ```
 
 ## Usage
